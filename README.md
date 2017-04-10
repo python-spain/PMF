@@ -4,14 +4,14 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
 ## ¿Cual es el mejor editor/IDE para Python?
 
-Esta es la pregunta/tema más recurrente en el canal. Cada persona tiene sus preferencias, experiencia, sistema operativo y lo importante es sentirse cómodo con la herramienta que más vas a utilizar. De manera periódica surgen listados en blogs comparando las características de los editores/IDEs más populares. Una simple búsqueda con tu buscador favorito te puede servir.
+Esta es la pregunta más recurrente en el canal. Cada persona tiene sus preferencias, experiencia, sistema operativo, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. De manera periódica surgen listados en blogs comparando las características de los editores/IDEs más populares. Una simple búsqueda con tu buscador favorito te puede ayudar.
 
 Un recurso que recopila una buena selección de direcciones sobre entornos de desarrollo es [Full Stack Python](https://www.fullstackpython.com/development-environments.html) (en inglés).
 
 En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
 
-  * [Editor de texto](https://wiki.python.org/moin/PythonEditors) (en inglés)
-  * [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) (en inglés)
+* [Editor de texto](https://wiki.python.org/moin/PythonEditors) (en inglés)
+* [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) (en inglés)
 
 ## ¿Qué curso/libro recomendáis para empezar?
 
@@ -19,15 +19,15 @@ Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "ing
 
 Puedes empezar por estos libros/tutoriales:
 
-  * [Tutorial oficial de Python](http://docs.python.org.ar/tutorial/3/) (traducción de Python Argentina)
-  * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
-  * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
+* [Tutorial oficial de Python](http://docs.python.org.ar/tutorial/3/) (traducción de Python Argentina)
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
+* [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
 
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
-  * [Cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
-  * [¿Qué has intentado?](https://medium.com/@unrob/que-has-intentado-12b31d36bc89)
-  * Cómo mostrar tu código (pega tu código en una de las webs de abajo y compárte la URL generada en el canal):
+* [Cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
+* [¿Qué has intentado?](https://medium.com/@unrob/que-has-intentado-12b31d36bc89)
+* Cómo mostrar tu código (pega tu código en una de las webs de abajo y compárte la URL generada en el canal):
     * https://bpaste.net/
     * https://repl.it/languages/python3
     * https://trinket.io/python
