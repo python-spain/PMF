@@ -4,12 +4,20 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
 ## ¿Cual es el mejor editor/IDE para Python?
 
-  * [Editor de texto](https://wiki.python.org/moin/PythonEditors) (listado en la wiki de Python.org)
-  * [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) (listado en la wiki de Python.org)
+Esta es la pregunta/tema más recurrente en el canal. Cada persona tiene sus preferencias, experiencia, sistema operativo y lo importante es sentirse cómodo con la herramienta que más vas a utilizar. De manera periódica surgen listados en blogs comparando las características de los editores/IDEs más populares. Una simple búsqueda con tu buscador favorito te puede servir.
+
+Un recurso que recopila una buena selección de direcciones sobre entornos de desarrollo es [Full Stack Python](https://www.fullstackpython.com/development-environments.html) (en inglés).
+
+En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
+
+  * [Editor de texto](https://wiki.python.org/moin/PythonEditors) (en inglés)
+  * [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) (en inglés)
 
 ## ¿Qué curso/libro recomendáis para empezar?
 
 Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "inglés nivel medio"?
+
+Puedes empezar por estos libros/tutoriales:
 
   * [Tutorial oficial de Python](http://docs.python.org.ar/tutorial/3/) (traducción de Python Argentina)
   * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
