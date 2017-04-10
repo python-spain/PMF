@@ -7,7 +7,7 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
   * [Editor de texto](https://wiki.python.org/moin/PythonEditors) (listado en la wiki de Python.org)
   * [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) (listado en la wiki de Python.org)
 
-## ¿Qué curso recomendáis para empezar?
+## ¿Qué curso/libro recomendáis para empezar?
 
 Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "inglés nivel medio"?
 
@@ -26,3 +26,7 @@ Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "ing
     * https://github.com/
     * https://gitlab.com/
     * https://bitbucket.org/
+
+## ¿Qué librería/*framework* recomendáis para...?
+
+  Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante es [awesome-python](https://github.com/vinta/awesome-python). Hay listas más específicas si se trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
