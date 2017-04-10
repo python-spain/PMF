@@ -18,6 +18,7 @@ Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "ing
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
   * [Cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
+  * [¿Qué has intentado?](https://medium.com/@unrob/que-has-intentado-12b31d36bc89)
   * Cómo mostrar el código (pega tu código aquí y compárte la URL en el canal):
     * https://bpaste.net/
     * https://repl.it/languages/python3
