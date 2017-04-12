@@ -23,6 +23,8 @@ Puedes empezar por estos libros/tutoriales:
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
 
+Python Argentina también dispone de una página con más recursos recopilados: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
+
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
 * [Cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
