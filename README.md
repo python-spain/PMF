@@ -38,3 +38,10 @@ Puedes empezar por estos libros/tutoriales:
 ## ¿Qué librería/*framework* recomendáis para...?
 
   Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante es [awesome-python](https://github.com/vinta/awesome-python). Hay listas más específicas si se trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
+
+## Dicen por ahí que Python es lento...¿es cierto?
+
+  Es posible que te hayan contado cosas malas de Python pero ¿te crees todo lo que te dicen? Te recomendamos que leas un par de páginas para formarte una idea más realista:
+  
+  * [Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1)
+  * [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
