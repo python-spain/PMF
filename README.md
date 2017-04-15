@@ -12,8 +12,8 @@ En [Full Stack Python](https://www.fullstackpython.com/) se recopila una buena s
 
 En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
 
-* [Editor de texto](https://wiki.python.org/moin/PythonEditors) (en inglés)
-* [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) (en inglés)
+* [Editor de texto](https://wiki.python.org/moin/PythonEditors)
+* [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
 ## ¿Qué curso/libro recomendáis para empezar?
 
@@ -46,7 +46,7 @@ Si es de las primeras veces que preguntas en un foro, puede interesarte saber [c
 
 ## Dicen por ahí que Python es lento...¿es cierto?
 
-  Es posible que te hayan contado cosas malas de Python pero ¿te crees todo lo que te dicen? Te recomendamos que leas un par de páginas para formarte una idea más realista:
+  Es posible que te hayan contado *cosas malas* de Python pero ¿te crees todo lo que te dicen? Te recomendamos que leas un par de páginas para formarte una idea más realista:
   
   * [Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1)
   * [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
