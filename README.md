@@ -4,11 +4,9 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
-## ¿Cual es el mejor editor/IDE para Python?
+## ¿Cuál es el mejor editor/IDE para Python?
 
-Cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger una o varias de entre las opciones que te damos más abajo y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
-
-De manera periódica surgen listados en blogs comparando las características de los editores/IDEs más populares. Una simple búsqueda con tu buscador favorito te puede ayudar.
+Cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger uno o varios (de entre los listados que te damos a continuación) y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
 
 En [Full Stack Python](https://www.fullstackpython.com/) se recopila una buena selección de direcciones sobre [entornos de desarrollo](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa [tabla comparativa](https://www.reddit.com/r/learnpython/wiki/ide) en *reddit* que te puede servir de guía para escoger.
 
