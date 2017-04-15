@@ -11,7 +11,7 @@ Licencia: [Creative Commons 0 (CC0)](LICENSE)
 * [No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?](#no-me-funciona-un-programa-estoy-atascado-alguien-me-puede-ayudar)
 * [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
   * [Aplicaciones gráficas](#aplicaciones-gráficas)
-  * [Extraer información de la web](extraer-información-de-la-web)
+  * [Extraer información de la web](#extraer-información-de-la-web)
 * [Dicen por ahí que Python es lento...¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
 
 ----
