@@ -6,7 +6,7 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
 Esta es la pregunta más recurrente en el canal. Cada persona tiene sus preferencias, experiencia, sistema operativo, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. De manera periódica surgen listados en blogs comparando las características de los editores/IDEs más populares. Una simple búsqueda con tu buscador favorito te puede ayudar.
 
-Un recurso que recopila una buena selección de direcciones sobre entornos de desarrollo es [Full Stack Python](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa tabla comparativa en [reddit](https://www.reddit.com/r/learnpython/wiki/ide) que te puede servir de guía para escoger.
+En [Full Stack Python](https://www.fullstackpython.com/) se recopila una buena selección de direcciones sobre [entornos de desarrollo](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa [tabla comparativa](https://www.reddit.com/r/learnpython/wiki/ide) en *reddit* que te puede servir de guía para escoger.
 
 En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
 
@@ -27,7 +27,8 @@ Python Argentina también dispone de una página con más recursos recopilados: 
 
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
-Si es de las primeras veces que preguntas en un foro, puede interesarte saber [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcionara tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el canal:
+Si es de las primeras veces que preguntas en un foro, puede interesarte saber [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcione tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el canal:
+
     * https://pastebin.com/
     * https://bpaste.net/
     * https://repl.it/languages/python3
