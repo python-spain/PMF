@@ -40,6 +40,7 @@ Si es de las primeras veces que preguntas en un foro, puede interesarte saber [c
 ## ¿Qué librería/*framework* recomendáis para...?
 
   Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante para poder conocer dichas alternativas es [awesome-python](https://github.com/vinta/awesome-python). Verás que cubre muchos ámbitos. Hay listas más específicas si tu pregunta trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
+  Intenta hacer una pregunta concreta. No es buena idea preguntar *¿qué es mejor X o Y?*. Sin información, la respuesta de cualquier participante será subjetiva. Matiza cuál es el problema que quieres resolver para que podamos ayudarte en la recomendación.
 
 ## Dicen por ahí que Python es lento...¿es cierto?
 
