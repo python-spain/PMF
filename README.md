@@ -29,17 +29,17 @@ Python Argentina también dispone de una página con más recursos recopilados: 
 
 Si es de las primeras veces que preguntas en un foro, puede interesarte saber [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcione tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el canal:
 
-    * https://pastebin.com/
-    * https://bpaste.net/
-    * https://repl.it/languages/python3
-    * https://trinket.io/python
-    * https://github.com/
-    * https://gitlab.com/
-    * https://bitbucket.org/
+   * https://pastebin.com/
+   * https://bpaste.net/
+   * https://repl.it/languages/python3
+   * https://trinket.io/python
+   * https://github.com/
+   * https://gitlab.com/
+   * https://bitbucket.org/
 
 ## ¿Qué librería/*framework* recomendáis para...?
 
-  Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante es [awesome-python](https://github.com/vinta/awesome-python). Hay listas más específicas si se trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
+  Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante para poder conocer dichas alternativas es [awesome-python](https://github.com/vinta/awesome-python). Verás que cubre muchos ámbitos. Hay listas más específicas si tu pregunta trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
 
 ## Dicen por ahí que Python es lento...¿es cierto?
 
