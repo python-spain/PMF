@@ -4,6 +4,16 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
+**Listado de preguntas frecuentes**
+
+* [¿Cuál es el mejor editor/IDE para Python?](#cu%C3%A1l-es-el-mejor-editoride-para-python)
+* [¿Qué curso/libro recomendáis para empezar?](#qu%C3%A9-cursolibro-recomend%C3%A1is-para-empezar)
+* [No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?](#no-me-funciona-un-programa-estoy-atascado-alguien-me-puede-ayudar)
+* [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
+* [Dicen por ahí que Python es lento...¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
+
+----
+
 ## ¿Cuál es el mejor editor/IDE para Python?
 
 Cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger uno o varios (de entre los listados que te damos a continuación) y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
