@@ -6,7 +6,7 @@ Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
 Esta es la pregunta más recurrente en el canal. Cada persona tiene sus preferencias, experiencia, sistema operativo, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. De manera periódica surgen listados en blogs comparando las características de los editores/IDEs más populares. Una simple búsqueda con tu buscador favorito te puede ayudar.
 
-Un recurso que recopila una buena selección de direcciones sobre entornos de desarrollo es [Full Stack Python](https://www.fullstackpython.com/development-environments.html) (en inglés).
+Un recurso que recopila una buena selección de direcciones sobre entornos de desarrollo es [Full Stack Python](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa tabla comparativa en [reddit](https://www.reddit.com/r/learnpython/wiki/ide) que te puede servir de guía para escoger.
 
 En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
 
