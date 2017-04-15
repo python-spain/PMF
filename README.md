@@ -27,9 +27,8 @@ Python Argentina también dispone de una página con más recursos recopilados: 
 
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
-* [Cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
-* [¿Qué has intentado?](https://medium.com/@unrob/que-has-intentado-12b31d36bc89)
-* Cómo mostrar tu código (pega tu código en una de las webs de abajo y compárte la URL generada en el canal):
+Si es de las primeras veces que preguntas en un foro, puede interesarte saber [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcionara tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el canal:
+    * https://pastebin.com/
     * https://bpaste.net/
     * https://repl.it/languages/python3
     * https://trinket.io/python
