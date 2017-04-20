@@ -13,6 +13,7 @@ Licencia: [Creative Commons 0 (CC0)](LICENSE)
   * [Aplicaciones gráficas](#aplicaciones-gráficas)
   * [Extraer información de la web](#extraer-información-de-la-web)
 * [Dicen por ahí que Python es lento...¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
+* [¿Puedo publicar una oferta de trabajo?](#puedo-publicar-una-oferta-de-trabajo)
 
 ----
 
@@ -54,6 +55,7 @@ Si es de las primeras veces que preguntas en un foro, puede interesarte saber [c
 ## ¿Qué librería/*framework* recomendáis para...?
 
   Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante para poder conocer dichas alternativas es [awesome-python](https://github.com/vinta/awesome-python). Verás que cubre muchos ámbitos. Hay listas más específicas si tu pregunta trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
+
   Intenta hacer una pregunta concreta. No es buena idea preguntar *¿qué es mejor X o Y?*. Sin información, la respuesta de cualquier participante será subjetiva. Matiza cuál es el problema que quieres resolver para que podamos ayudarte en la recomendación.
   
 ### Aplicaciones gráficas
@@ -82,3 +84,9 @@ Básicamente tienes dos opciones:
   
   * [Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1)
   * [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
+
+## ¿Puedo publicar una oferta de trabajo?
+
+  Se pueden enviar ofertas de trabajo a la lista de correo general de la asociación Python España <general@lists.es.python.org> mientras sigas estas reglas para publicarlas: https://lists.es.python.org/pipermail/general/2016-October/003294.html
+
+  Además, si tu empresa vende productos y servicios basados en Python, o utiliza Python internamente, puedes añadirla al listado de [empresas python-friendly en España](https://github.com/python-spain/empresas). De esta manera estarás dando visibilidad al uso de Python en la industria del software en España.
