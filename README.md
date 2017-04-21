@@ -77,6 +77,8 @@ Básicamente tienes dos opciones:
 
   * Usar [Requests](http://docs.python-requests.org) para el acceso y [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) para la extracción.
   * Usar el *framework* [Scrapy](https://scrapy.org/).
+  
+  También puede resultarte de ayuda el capítulo de [Web scraping](https://automatetheboringstuff.com/chapter11/) del libro [Automate the boring stuff](https://automatetheboringstuff.com/) en el que también se utiliza [Selenium](http://www.seleniumhq.org/).
 
 ## Dicen por ahí que Python es lento...¿es cierto?
 
