@@ -91,6 +91,6 @@ Básicamente tienes dos opciones:
 
 ## ¿Puedo publicar una oferta de trabajo?
 
-  Se pueden enviar ofertas de trabajo a la lista de correo general de la asociación Python España <general@lists.es.python.org> mientras sigas estas reglas para publicarlas: https://lists.es.python.org/pipermail/general/2016-October/003294.html
+  Se pueden enviar ofertas de trabajo al [grupo de Telegram](https://t.me/PythonEsp) y a la [lista de correo general de la asociación Python España](general@lists.es.python.org) mientras sigas estas reglas para publicarlas: https://lists.es.python.org/pipermail/general/2016-October/003294.html
 
   Además, si tu empresa vende productos y servicios basados en Python, o utiliza Python internamente, puedes añadirla al listado de [empresas python-friendly en España](https://github.com/python-spain/empresas). De esta manera estarás dando visibilidad al uso de Python en la industria del software en España.
