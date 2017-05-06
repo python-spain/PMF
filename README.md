@@ -39,6 +39,7 @@ Puedes empezar por estos libros/tutoriales:
 * [Tutorial oficial de Python](http://docs.python.org.ar/tutorial/3/) (traducción de Python Argentina)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
+* [Python 3 para impacientes](http://python-para-impacientes.blogspot.com/p/indice.html)
 
 Python Argentina también dispone de una página con más recursos recopilados: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
 
