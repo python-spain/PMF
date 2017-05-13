@@ -34,14 +34,22 @@ En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listado
 
 Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "inglés nivel medio"?
 
-Puedes empezar por estos libros/tutoriales:
+Si no tienes conocimientos de programación, puedes empezar por estos tutoriales/libros:
 
 * [Tutorial oficial de Python](http://docs.python.org.ar/tutorial/3/) (traducción de Python Argentina)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
-* [Python 3 para impacientes](http://python-para-impacientes.blogspot.com/p/indice.html)
 
 Python Argentina también dispone de una página con más recursos recopilados: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
+
+Si tienes conocimientos básicos de programación (en algún otro lenguaje) te recomendamos:
+
+* [Python 3 para impacientes](http://python-para-impacientes.blogspot.com/p/indice.html)
+
+En caso de no tener problema con leer en inglés, la oferta es mucho mayor:
+
+* [Python's *original* tutorial](https://docs.python.org/3/tutorial/)
+* [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - a section from [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (a very good and complete list of resources)
 
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
