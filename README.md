@@ -2,7 +2,7 @@
 
 Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
 
-Grupos Telegram relacionados: [Python-EDU España](https://t.me/python_edu_spain) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp)
+Grupos Telegram relacionados: [Python-EDU España](https://t.me/PythonEsp_Edu) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp)
 
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
