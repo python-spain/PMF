@@ -1,8 +1,10 @@
 # PMF - Preguntas Más Frecuentes (FAQ)
 
-Para el [grupo Telegram de Python España](https://t.me/PythonEsp)
+Grupos de Telegram: 
 
-Grupos Telegram relacionados: [Python-EDU España](https://t.me/PythonEsp_Edu) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Python Científico](https://t.me/python_cientifico)
+* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Python-EDU España](https://t.me/PythonEsp_Edu)
+
+* Territoriales: [Girona](https://t.me/pygrn) - [Tenerife](https://t.me/pybirrastf) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg)
 
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
