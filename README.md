@@ -4,7 +4,7 @@ Grupos de Telegram:
 
 * Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Python-EDU España](https://t.me/PythonEsp_Edu)
 
-* Territoriales: [Girona](https://t.me/pygrn) - [Tenerife](https://t.me/pybirrastf) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg)
+* Territoriales: [Canarias](https://t.me/pythoncanarias) - [Castilla y León](https://t.me/PyCyL) - [Girona](https://t.me/pygrn) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg)
 
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
