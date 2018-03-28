@@ -14,7 +14,7 @@ Licencia: [Creative Commons 0 (CC0)](LICENSE)
 * [¿Qué curso/libro recomendáis para empezar?](#qu%C3%A9-cursolibro-recomend%C3%A1is-para-empezar)
 * [No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?](#no-me-funciona-un-programa-estoy-atascado-alguien-me-puede-ayudar)
 * [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
-  * [Aplicaciones gráficas](#aplicaciones-gráficas)
+  * [Aplicaciones gráficas (GUI)](#aplicaciones-gráficas)
   * [Extraer información de la web](#extraer-información-de-la-web)
 * [Dicen por ahí que Python es lento...¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
 * [¿Puedo publicar una oferta de trabajo?](#puedo-publicar-una-oferta-de-trabajo)
@@ -71,16 +71,21 @@ Si es de las primeras veces que preguntas en un foro, puede interesarte saber [c
 
   Intenta hacer una pregunta concreta. No es buena idea preguntar *¿qué es mejor X o Y?*. Sin información, la respuesta de cualquier participante será subjetiva. Matiza cuál es el problema que quieres resolver para que podamos ayudarte en la recomendación.
   
-### Aplicaciones gráficas
+### Aplicaciones gráficas (GUI)
 
-Las principales opciones que hay ahora mismo en Python para crear aplicaciones gráficas son:
+Las principales opciones que hay ahora mismo (Marzo 2018) en Python para crear aplicaciones gráficas son:
 
-  * Qt: [PySide](https://wiki.qt.io/PySide) o [Qt Creator](https://www.qt.io/ide/)
-  * GTK: [Glade](https://glade.gnome.org/)
-  * wxWidgets: [wxGlade](http://wxglade.sourceforge.net/)
-  * [Kivy](https://kivy.org/) con su [kivy designer](https://github.com/kivy/kivy-designer) (en desarrollo)
-  * [Toga](https://github.com/pybee/toga) (en desarrollo)
-  * [pywebview](https://github.com/r0x0r/pywebview) (*wrapper* del componente webview)
+Framework Python | Descripcion | Framework Base | Diseñador Visual de Interfaz | Licencia | Última Version Estable (Marzo'18) |
+:---: | :---| :---: | :---: | :---: | :---: |
+[Tkinter](https://docs.python.org/3/library/tk.html) | Framework multiplataforma base incluido en Python por defecto en la librería estándar.  | [Tcl/Tk](http://www.tcl.tk/) |  | [Python License](https://docs.python.org/3/license.html) |
+[PyQt](https://riverbankcomputing.com/software/pyqt/intro) | Framework multiplataforma muy popular basado en Qt. Para uso comercial requeire la compra de una licencia (Ver Licencia). | [Qt](https://www.qt.io/) | [Qt Creator](https://www.qt.io/ide/) | [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) y [Riverbank Commercial License](https://www.riverbankcomputing.com/commercial/pyqt)| PyQt5 |
+[PySide](http://wiki.qt.io/PySide) | Framework multiplataforma basado en Qt, pero con una licencia menos restrictiva. No soporta Qt5 pero está en desarrollo la versión 2 que si lo hace. | [Qt](https://www.qt.io/) | [Qt Creator](https://www.qt.io/ide/) | [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html) | 1.2.4 (Qt4) |
+[wxPython](https://www.wxpython.org/) | Framework multiplataforma bastante popular basado wn wxWidgets que tiene como principal ventaja que los componentes son nativos y por lo tanto su apariencia es igual a la del SO en el que se usan. | [wxWidgets](https://www.wxwidgets.org/) | [wxGlade](http://wxglade.sourceforge.net/) o [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) | [wxWindows Library Licence](https://www.wxpython.org/pages/license/) | 4.0.1 |
+[Python GTK+](https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html) | Framework multiplataforma basado en GTK+3. (PyGTK es la versión antigua y usa GTK+2) | [GTK+](https://www.gtk.org/) | [glade](https://glade.gnome.org/) | [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html) | 3.4 |
+[Kivy](https://kivy.org/) | Framework multiplataforma diseñado para funcionar además de en entornos de escritorio, en Android o IOS. |  | [Kivy Designer](https://kivy-designer.readthedocs.io/en/latest/) | [MIT license](https://en.wikipedia.org/wiki/MIT_License) | 1.10 |
+[Toga](https://pybee.org/project/projects/libraries/toga/) | Framework multiplataforma orientado a desarrollo móvil con widgets nativos (en linux requiere GTK+3). Está en desarrollo. |  |  | [New BSD License](https://en.wikipedia.org/wiki/BSD_licenses) | 0.3 |
+[pywebview](https://github.com/r0x0r/pywebview) | Es un wrapper de un componente webview que se basa en distintos frameworks dependiendo de la plataforma en la que se instala. Al ser un componente webview, el render lo decide el SO, por lo que en windows (por ejemplo) estás atado a Internet Explorer. | [Depende del SO](https://github.com/r0x0r/pywebview#dependencies) |  | [New BSD License](https://en.wikipedia.org/wiki/BSD_licenses) | 1.8
+
 
 Si quieres ver todas las opciones, puedes leer el [listado de GUIs](https://docs.python.org/3/faq/gui.html) en la web de Python así como [herramientas de diseño](https://wiki.python.org/moin/GuiProgramming#GUIDesignToolsandIDEs) en la wiki de Python.
 
