@@ -2,7 +2,7 @@
 
 Grupos de Telegram: 
 
-* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Python-EDU España](https://t.me/PythonEsp_Edu)
+* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [Django España](https://t.me/DjangoEsp) - [Python-EDU España](https://t.me/PythonEsp_Edu)
 
 * Territoriales: [Alicante](https://t.me/python_alc) - [Canarias](https://t.me/pythoncanarias) - [Castilla y León](https://t.me/PyCyL) - [Extremadura](https://t.me/ExtrePython) (canal) - [Girona](https://t.me/pygrn) - [Granada](https://t.me/pythongranada) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg) 
 
