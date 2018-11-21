@@ -1,8 +1,8 @@
 # PMF - Preguntas Más Frecuentes (FAQ)
 
-Grupos de Telegram: 
+Grupos y Canales de Telegram: 
 
-* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Odoo en español](https://t.me/odoo_es) - [Python-EDU España](https://t.me/PythonEsp_Edu)
+* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Odoo en español](https://t.me/odoo_es) - [Python-EDU España](https://t.me/PythonEsp_Edu) - [Un Python al Día](https://t.me/UnPythonAlDia) (canal) - [Aprende Python](https://t.me/aprendepython) - [Sólo Python](https://t.me/Python_es) - [>>> telegram.Bot(lang = 'es')](https://t.me/pythontelegrambot_es)
 
 * Territoriales: [Alicante](https://t.me/python_alc) - [Barcelona](https://t.me/pybcn) (canal) - [Canarias](https://t.me/pythoncanarias) - [Castilla y León](https://t.me/PyCyL) - [Catalunya](https://t.me/pythoncatalunya) - [Extremadura](https://t.me/ExtrePython) (canal) - [Girona](https://t.me/pygrn) - [Granada](https://t.me/pythongranada) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg) 
 
