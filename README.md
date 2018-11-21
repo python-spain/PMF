@@ -41,6 +41,7 @@ Si no tienes conocimientos de programación, puedes empezar por estos tutoriales
 * [Tutorial oficial de Python](http://docs.python.org.ar/tutorial/3/) (traducción de Python Argentina)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
+* [Introducción a la programación con Python](http://mclibre.org/consultar/python/) (Barto Sintes - IES Abastos (Valencia))
 
 Python Argentina también dispone de una página con más recursos recopilados: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
 
