@@ -4,8 +4,8 @@ Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
 * [¿Qué curso/libro recomendáis para empezar?](#qu%C3%A9-cursolibro-recomend%C3%A1is-para-empezar)
 * [¿Hay más grupos de Telegram relacionados con Python (en español)?](#hay-más-grupos-de-telegram-relacionados-con-python-en-español)
+* [¿Necesitas ayuda con un programa?](#necesitas-ayuda-con-un-programa)
 * [¿Cuál es el mejor editor/IDE para Python?](#cu%C3%A1l-es-el-mejor-editoride-para-python)
-* [No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?](#no-me-funciona-un-programa-estoy-atascado-alguien-me-puede-ayudar)
 * [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
   * [Aplicaciones gráficas (GUI)](#aplicaciones-gráficas-gui)
   * [Extraer información de la web](#extraer-información-de-la-web)
@@ -28,9 +28,9 @@ Si no tienes conocimientos de programación, puedes empezar por estos tutoriales
 
 En el grupo Telegram tiene bastante popularidad un curso en vídeo llamado [Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) (Píldoras informáticas).
 
-Tienes más recursos recopilados en: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
+Tienes más recursos recopilados en [Quiero aprender Python](https://argentinaenpython.com/quiero-aprender-python/).
 
-Si tienes conocimientos básicos de programación (en algún otro lenguaje) te recomendamos:
+Si tienes conocimientos básicos de programación te recomendamos:
 
 * [Python 3 para impacientes](http://python-para-impacientes.blogspot.com/p/indice.html)
 
@@ -38,12 +38,29 @@ En caso de no tener problema con leer en inglés, la oferta es mucho mayor:
 
 * [Python's *original* tutorial](https://docs.python.org/3/tutorial/)
 * [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - a section from [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (a very good and complete list of resources)
+* [Python for Everybody](https://books.trinket.io/pfe/) por Charles Severance (Dr. Chuck)
 
 ## ¿Hay más grupos de Telegram relacionados con Python (en español)?
 
 * Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [AeroPython](https://t.me/AeroPython) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Odoo en español](https://t.me/odoo_es) - [Python-EDU España](https://t.me/PythonEsp_Edu) - [Un Python al Día](https://t.me/UnPythonAlDia) (canal) - [Aprende Python](https://t.me/aprendepython) (canal) - [Sólo Python](https://t.me/Python_es) - [>>> telegram.Bot(lang = 'es')](https://t.me/pythontelegrambot_es)
 
 * Territoriales: [Alicante](https://t.me/python_alc) - [Barcelona](https://t.me/pybcn) (canal) - [Canarias](https://t.me/pythoncanarias) - [Castilla y León](https://t.me/PyCyL) - [Catalunya](https://t.me/pythoncatalunya) - [Extremadura](https://t.me/ExtrePython) (canal) - [Girona](https://t.me/pygrn) - [Granada](https://t.me/pythongranada) - [Málaga](https://t.me/MalagaPython) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg) 
+
+## ¿Necesitas ayuda con un programa?
+
+Si es de las primeras veces que preguntas en un foro, puede interesarte aprender [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcione tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el canal:
+
+   * https://pastebin.com/
+   * https://bpaste.net/
+   * https://repl.it/languages/python3
+   * https://trinket.io/python
+   * https://gist.github.com/
+   
+O indicarnos tu repositorio de código en:
+   
+   * https://github.com/
+   * https://gitlab.com/
+   * https://bitbucket.org/
 
 ## ¿Cuál es el mejor editor/IDE para Python?
 
@@ -55,18 +72,6 @@ En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listado
 
 * [Editor de texto](https://wiki.python.org/moin/PythonEditors)
 * [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
-
-## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
-
-Si es de las primeras veces que preguntas en un foro, puede interesarte saber [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcione tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el canal:
-
-   * https://pastebin.com/
-   * https://bpaste.net/
-   * https://repl.it/languages/python3
-   * https://trinket.io/python
-   * https://github.com/
-   * https://gitlab.com/
-   * https://bitbucket.org/
 
 ## ¿Qué librería/*framework* recomendáis para...?
 
