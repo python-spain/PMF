@@ -3,7 +3,7 @@
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
 * [¿Qué curso/libro recomendáis para empezar?](#qu%C3%A9-cursolibro-recomend%C3%A1is-para-empezar)
-* [¿Hay más grupos de Telegram relacionados con Python (en español)?](#hay-más-grupos-de-telegram-relacionados-con-python-en-espanol)
+* [¿Hay más grupos de Telegram relacionados con Python (en español)?](#hay-más-grupos-de-telegram-relacionados-con-python-en-español)
 * [¿Cuál es el mejor editor/IDE para Python?](#cu%C3%A1l-es-el-mejor-editoride-para-python)
 * [No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?](#no-me-funciona-un-programa-estoy-atascado-alguien-me-puede-ayudar)
 * [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
