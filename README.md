@@ -1,17 +1,10 @@
 # PMF - Preguntas Más Frecuentes (FAQ)
 
-Grupos y Canales de Telegram: 
-
-* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [AeroPython](https://t.me/AeroPython) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Odoo en español](https://t.me/odoo_es) - [Python-EDU España](https://t.me/PythonEsp_Edu) - [Un Python al Día](https://t.me/UnPythonAlDia) (canal) - [Aprende Python](https://t.me/aprendepython) (canal) - [Sólo Python](https://t.me/Python_es) - [>>> telegram.Bot(lang = 'es')](https://t.me/pythontelegrambot_es)
-
-* Territoriales: [Alicante](https://t.me/python_alc) - [Barcelona](https://t.me/pybcn) (canal) - [Canarias](https://t.me/pythoncanarias) - [Castilla y León](https://t.me/PyCyL) - [Catalunya](https://t.me/pythoncatalunya) - [Extremadura](https://t.me/ExtrePython) (canal) - [Girona](https://t.me/pygrn) - [Granada](https://t.me/pythongranada) - [Málaga](https://t.me/MalagaPython) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg) 
-
 Licencia: [Creative Commons 0 (CC0)](LICENSE)
 
-**Listado de preguntas frecuentes**
-
-* [¿Cuál es el mejor editor/IDE para Python?](#cu%C3%A1l-es-el-mejor-editoride-para-python)
 * [¿Qué curso/libro recomendáis para empezar?](#qu%C3%A9-cursolibro-recomend%C3%A1is-para-empezar)
+* [¿Hay más grupos de Telegram relacionados con Python (en español)?](#hay-más-grupos-de-telegram-relacionados-con-python-en-espanol)
+* [¿Cuál es el mejor editor/IDE para Python?](#cu%C3%A1l-es-el-mejor-editoride-para-python)
 * [No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?](#no-me-funciona-un-programa-estoy-atascado-alguien-me-puede-ayudar)
 * [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
   * [Aplicaciones gráficas (GUI)](#aplicaciones-gráficas-gui)
@@ -19,18 +12,7 @@ Licencia: [Creative Commons 0 (CC0)](LICENSE)
 * [Dicen por ahí que Python es lento...¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
 * [¿Puedo publicar una oferta de trabajo?](#puedo-publicar-una-oferta-de-trabajo)
 
-----
-
-## ¿Cuál es el mejor editor/IDE para Python?
-
-Cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger uno o varios (de entre los listados que te damos a continuación) y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
-
-En [Full Stack Python](https://www.fullstackpython.com/) se recopila una buena selección de direcciones sobre [entornos de desarrollo](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa [tabla comparativa](https://www.reddit.com/r/learnpython/wiki/ide) en *reddit* que te puede servir de guía para escoger.
-
-En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
-
-* [Editor de texto](https://wiki.python.org/moin/PythonEditors)
-* [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
+---
 
 ## ¿Qué curso/libro recomendáis para empezar?
 
@@ -42,8 +24,11 @@ Si no tienes conocimientos de programación, puedes empezar por estos tutoriales
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
 * [Introducción a la programación con Python](http://mclibre.org/consultar/python/) (Barto Sintes - IES Abastos (Valencia))
+* [Solución de problemas con algoritmos y estructuras de datos usando Python](http://interactivepython.org/runestone/static/pythoned/index.html) (traducción de Mauricio Orozco-Alzate del libro de Brad Miller y David Ranum)
 
-Python Argentina también dispone de una página con más recursos recopilados: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
+En el grupo Telegram tiene bastante popularidad un curso en vídeo llamado [Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) (Píldoras informáticas).
+
+Tienes más recursos recopilados en: [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/).
 
 Si tienes conocimientos básicos de programación (en algún otro lenguaje) te recomendamos:
 
@@ -53,6 +38,23 @@ En caso de no tener problema con leer en inglés, la oferta es mucho mayor:
 
 * [Python's *original* tutorial](https://docs.python.org/3/tutorial/)
 * [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - a section from [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (a very good and complete list of resources)
+
+## ¿Hay más grupos de Telegram relacionados con Python (en español)?
+
+* Temáticos: [Python España](https://t.me/PythonEsp) - [Python Científico](https://t.me/python_cientifico) - [AeroPython](https://t.me/AeroPython) - [Django España](https://t.me/DjangoEsp) - [Flask España](https://t.me/FlaskEsp) - [Odoo en español](https://t.me/odoo_es) - [Python-EDU España](https://t.me/PythonEsp_Edu) - [Un Python al Día](https://t.me/UnPythonAlDia) (canal) - [Aprende Python](https://t.me/aprendepython) (canal) - [Sólo Python](https://t.me/Python_es) - [>>> telegram.Bot(lang = 'es')](https://t.me/pythontelegrambot_es)
+
+* Territoriales: [Alicante](https://t.me/python_alc) - [Barcelona](https://t.me/pybcn) (canal) - [Canarias](https://t.me/pythoncanarias) - [Castilla y León](https://t.me/PyCyL) - [Catalunya](https://t.me/pythoncatalunya) - [Extremadura](https://t.me/ExtrePython) (canal) - [Girona](https://t.me/pygrn) - [Granada](https://t.me/pythongranada) - [Málaga](https://t.me/MalagaPython) - [Valencia](https://t.me/python_vlc) - [Vigo](https://t.me/joinchat/DdKphwfW2-qqPf5JsVGjCg) 
+
+## ¿Cuál es el mejor editor/IDE para Python?
+
+Cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger uno o varios (de entre los listados que te damos a continuación) y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
+
+En [Full Stack Python](https://www.fullstackpython.com/) se recopila una buena selección de direcciones sobre [entornos de desarrollo](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa [tabla comparativa](https://www.reddit.com/r/learnpython/wiki/ide) en *reddit* que te puede servir de guía para escoger.
+
+En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
+
+* [Editor de texto](https://wiki.python.org/moin/PythonEditors)
+* [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
 ## No me funciona un programa. Estoy atascado. ¿Alguien me puede ayudar?
 
