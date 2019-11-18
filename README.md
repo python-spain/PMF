@@ -112,8 +112,8 @@ Básicamente tienes dos opciones:
 
   Es posible que te hayan contado *cosas malas* de Python pero ¿te crees todo lo que te dicen? Te recomendamos que leas un par de páginas para formarte una idea más realista:
   
-  * [Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1)
-  * [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
+  * [Yes, Python is Slow, and I Don’t Care](https://medium.com/pyslackers/yes-python-is-slow-and-i-dont-care-13763980b5a1)
+  * [10 Myths of Enterprise Python](http://sedimental.org/10_myths_of_enterprise_python.html)
 
 ## ¿Puedo publicar una oferta de trabajo?
 
