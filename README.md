@@ -21,6 +21,7 @@ Depende de tu situación. ¿Ya sabes programar en algún lenguaje? ¿Tienes "ing
 Si no tienes conocimientos de programación, puedes empezar por estos tutoriales/libros:
 
 * [Tutorial oficial de Python](https://docs.python.org/es/3/tutorial/) dentro de la [documentación oficial en español](https://docs.python.org/es/3/)
+* [Aprende Python](https://aprendepython.es/) (Sergio delgado - IES Puerto de la Cruz (Tenerife))
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 * [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) (Universitat Jaume I)
 * [Introducción a la programación con Python](http://mclibre.org/consultar/python/) (Barto Sintes - IES Abastos (Valencia))
