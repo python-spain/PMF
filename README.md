@@ -40,6 +40,8 @@ En caso de no tener problema con leer en inglés, la oferta es mucho mayor:
 * [Python's *original* tutorial](https://docs.python.org/3/tutorial/)
 * [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - a section from [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (a very good and complete list of resources)
 * [Python for Everybody](https://books.trinket.io/pfe/) por Charles Severance (Dr. Chuck)
+* [Python Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#python) - libros con licencias libres
+* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) - libros ordenados por categorías
 
 ## ¿Hay más grupos de Telegram relacionados con Python (en español)?
 
