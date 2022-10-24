@@ -9,7 +9,7 @@ Licencia: [Creative Commons 0 (CC0)](LICENSE)
 * [¿Qué librería/*framework* recomendáis para...?](#qu%C3%A9-librer%C3%ADaframework-recomend%C3%A1is-para)
   * [Aplicaciones gráficas (GUI)](#aplicaciones-gráficas-gui)
   * [Extraer información de la web](#extraer-información-de-la-web)
-* [Dicen por ahí que Python es lento...¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
+* [Dicen por ahí que Python es lento... ¿es cierto?](#dicen-por-ah%C3%AD-que-python-es-lentoes-cierto)
 * [¿Puedo publicar una oferta de trabajo?](#puedo-publicar-una-oferta-de-trabajo)
 
 ---
@@ -55,7 +55,7 @@ En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listado
 
   Antes de preguntar por una librería o *framework* puedes echar un vistazo a las alternativas que hay en el ámbito de tu problema. Un recurso muy interesante para poder conocer dichas alternativas es [awesome-python](https://github.com/vinta/awesome-python). Verás que cubre muchos ámbitos. Hay listas más específicas si tu pregunta trata de [Django](https://gitlab.com/rosarior/awesome-django), [Flask](https://github.com/humiaozuzu/awesome-flask) o [Pyramid](https://github.com/uralbash/awesome-pyramid).
 
-  Intenta hacer una pregunta concreta. No es buena idea preguntar *¿qué es mejor X o Y?*. Sin información, la respuesta de cualquier participante será subjetiva. Matiza cuál es el problema que quieres resolver para que podamos ayudarte en la recomendación.
+  Intenta hacer una pregunta concreta. No es buena idea preguntar *¿qué es mejor X o Y?* Sin información, la respuesta de cualquier participante será subjetiva. Matiza cuál es el problema que quieres resolver para que podamos ayudarte en la recomendación.
   
 ### Aplicaciones gráficas (GUI)
 
@@ -86,7 +86,7 @@ Básicamente tienes dos opciones:
   
   También puede resultarte de ayuda el capítulo de [Web scraping](https://automatetheboringstuff.com/chapter11/) del libro [Automate the boring stuff](https://automatetheboringstuff.com/) en el que también se utiliza [Selenium](http://www.seleniumhq.org/).
 
-## Dicen por ahí que Python es lento...¿es cierto?
+## Dicen por ahí que Python es lento... ¿es cierto?
 
   Es posible que te hayan contado *cosas malas* de Python pero ¿te crees todo lo que te dicen? Te recomendamos que leas un par de páginas para formarte una idea más realista:
   
